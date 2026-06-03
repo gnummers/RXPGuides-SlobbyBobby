@@ -1,0 +1,9 @@
+## Interface: 11508
+## Title:|c0066ccffRestedXP - SlobbyBobby Dreadsteed Guide|r
+## Notes: SlobbyBobby Alliance Dreadsteed quest chain guide
+## Author: SlobbyBobby
+## Version: 1.0.0
+
+## Dependencies: RXPGuides
+
+RXPGuides_SlobbyBobby.lua
